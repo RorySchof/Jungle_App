@@ -19,7 +19,16 @@ Rails.application.routes.draw do
   end
 
     get '/about', to: 'about#index', as: 'about'
+
+    get '/login', to: 'sessions#new'
+    post '/login' => 'sessions#create'
+    get '/logout' => 'sessions#destroy'
+  
+    get '/signup' => 'users#new'
+    post '/users' => 'users#create'
   end
+
+ 
   
 
   # GifVault::Application.routes.draw do
