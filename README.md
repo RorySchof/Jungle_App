@@ -11,7 +11,8 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 5. Create .env file based on .env.example
 6. Sign up for a Stripe account
 7. Put Stripe (test) keys into appropriate .env vars
-8. Run `bin/rails s -b 0.0.0.0` to start the server
+8. Run `rails s -b 0.bin0.0.0` to start the server
+bin/rails s -b 0.0.0.0
 
 ## Database
 
