@@ -31,4 +31,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - PostgreSQL 9.x
 - Stripe
 
-![Alt text]()
+![Home Page](https://github.com/RorySchof/Jungle_App/blob/master/Screenshot%202023-11-16%20at%2012.05.56%20AM.png?raw=true)
+![Home Page](https://github.com/RorySchof/Jungle_App/blob/master/Screenshot%202023-11-16%20at%2012.05.56%20AM.png?raw=true)
+![Home Page](https://github.com/RorySchof/Jungle_App/blob/master/Screenshot%202023-11-16%20at%2012.05.56%20AM.png?raw=true)
+
